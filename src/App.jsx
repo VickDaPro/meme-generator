@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import Header from "./Components/Header";
 
 function App() {
   return (
     <p>
-      Cleanedup React App
+      <Header />
     </p>
   );
 }
